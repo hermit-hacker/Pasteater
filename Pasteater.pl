@@ -4,7 +4,6 @@
 # Author: Brian "Hermit" Mork
 # Version: 0.1 (2013-07-01)
 # Package: Pasteater
-# Testing Eclipse integration with this line.
 
 use strict;
 use warnings;
